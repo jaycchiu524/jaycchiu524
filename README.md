@@ -1,39 +1,41 @@
-<!--
-### Hi there 👋
-**jaycchiu524/jaycchiu524** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Jay 👋
 
-Here are some ideas to get you started:
+I am a **Full-Stack Developer** based in Toronto, currently transitioning my focus toward **DevOps and Infrastructure Engineering**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi there, I'm Jay! 👋
+---
 
-I'm a Software Developer based in Toronto, Ontario, with a diverse skill set and experience in various domains.
+### 🚀 Technical Highlights
 
-## Skills :hammer_and_wrench:
+#### **Backend & DevOps (Core Focus)**
+* **Cloud Infrastructure:** Architected and deployed applications on **AWS**, utilizing Lambda, S3, and DynamoDB for serverless efficiency.
+* **Infrastructure as Code:** Standardized provisioning workflows using **Terraform** to ensure consistent, reproducible environments.
+* **Containerization:** Experienced in managing containerized workloads with **Docker** and **Kubernetes** to streamline deployment cycles.
 
-- **Front-end**: HTML, CSS, React, React Native, JavaScript, TypeScript, Next.js, D3.js, Material UI, Ionic Capacitor, Tailwind CSS, Styled Component, Storybook, WordPress
-- **Back-end**: Node.js, Express, Prisma ORM, GraphQL, SQL, MongoDB, Python, Go
-- **DevOps**: Kubernetes, Docker, Drone CI, GitHub Actions, AWS EC2, S3, Lambda, VPC
-- **Others**: Jest, Supertest, Playwright, Cypress, Unit-testing, Figma, Jira, Notion
+#### **Frontend Development**
+* **Responsive Interfaces:** Developed performant, user-centric web interfaces using modern frameworks.
+* **API Integration:** Specialized in bridging the gap between complex backend services and frontend state management.
 
-## Work Experience :briefcase:
+---
 
-- **Software Developer at Kreatipedia Inc.** (Nov 2022 - Jan 2023)
-- **Software Developer at Greatics Ltd.** (Mar 2021 - Aug 2022)
-- **Front End Developer at 3 Rices Ltd.** (Jun 2020 - Mar 2022)
+### 📜 Certifications
 
-## Certifications :mortar_board:
+* ☸️ **Certified Kubernetes Application Developer (CKAD)** – *Active (Exp. June 2026)*
+* ☁️ **AWS Certified Solutions Architect – Associate** – *Expired*
+* 🛡️ **AWS Certified Developer – Associate** – *In Progress (Exam Feb 2026)*
+* 🐧 **Red Hat Certified System Administrator (RHCSA)** – *In Progress (Target Q2 2026)*
 
-- Certified Kubernetes Application Developer, The Linux Foundation (Jun 2023 - Jun 2026)
-- Amazon Web Service Solutions Architect Associate (Jun 2022 - Jun 2025)
+---
 
-Come take a look at my [website](https://www.jaychiu.me) to know more about me!
-Feel free to reach out to me on [jay.chiuyunhang@gmail.com](jay.chiuyunhang@gmail.com) or [LinkedIn](https://linkedin.com/in/jaychiuyunhang)!
+### 🛠 Technical Toolbox
+
+* **Languages & Frameworks:** JavaScript/TypeScript, React, NestJs, Bash, Python, Go
+* **Cloud & Infrastructure:** AWS, Terraform, Docker, Kubernetes
+* **OS & Automation:** Linux (RHEL/Ubuntu), CI/CD Pipelines, Bitbucket
+
+---
+
+### 📫 Connect with me
+
+* 📍 **Location:** Toronto, ON 🇨🇦
+* 💼 **LinkedIn:** [linkedin.com/in/jayyhchiu](https://linkedin.com/in/jayyhchiu)
+* 📧 **Email:** [jay@jaychiu.dev](jay@jaychiu.dev)
