@@ -19,9 +19,9 @@ I am a **Full-Stack Developer** based in Toronto, currently transitioning my foc
 
 ### 📜 Certifications
 
+* 🛡️ **AWS Certified Developer – Associate** – *Active (Exam Feb 2026)*
 * ☸️ **Certified Kubernetes Application Developer (CKAD)** – *Active (Exp. June 2026)*
 * ☁️ **AWS Certified Solutions Architect – Associate** – *Expired*
-* 🛡️ **AWS Certified Developer – Associate** – *In Progress (Exam Feb 2026)*
 * 🐧 **Red Hat Certified System Administrator (RHCSA)** – *In Progress (Target Q2 2026)*
 
 ---
