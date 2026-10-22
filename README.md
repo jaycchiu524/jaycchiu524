@@ -1,8 +1,8 @@
 # Jay Chiu
 
-Software developer in Toronto. I build the interfaces people use, the data and job layer behind them, and the infrastructure that runs it.
+Software developer in Toronto with 5+ years of experience in React, TypeScript, NestJS and AWS, across web, mobile and cloud infrastructure. Most recently I worked on the Hong Kong Tourism Board's government travel platform. I build the interfaces people use, the data and job layer behind them, and the infrastructure that runs it.
 
-Portfolio: [jaychiu.com](https://jaychiu.com) | [LinkedIn](https://linkedin.com/in/jayyhchiu) | jay.chiuyunhang@gmail.com
+Portfolio: [jaychiu.com](https://jaychiu.com) | [LinkedIn](https://linkedin.com/in/jayyhchiu) | jay@jaychiu.com
 
 ## What I have been building
 
