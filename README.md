@@ -1,41 +1,25 @@
-# Hello, I'm Jay 👋
+# Jay Chiu
 
-I am a **Full-Stack Developer** based in Toronto, currently transitioning my focus toward **DevOps and Infrastructure Engineering**.
+Software developer in Toronto. I build the interfaces people use, the data and job layer behind them, and the infrastructure that runs it.
 
----
+Portfolio: [jaychiu.com](https://jaychiu.com) | [LinkedIn](https://linkedin.com/in/jayyhchiu) | jay.chiuyunhang@gmail.com
 
-### 🚀 Technical Highlights
+## What I have been building
 
-#### **Backend & DevOps (Core Focus)**
-* **Cloud Infrastructure:** Architected and deployed applications on **AWS**, utilizing Lambda, S3, and DynamoDB for serverless efficiency.
-* **Infrastructure as Code:** Standardized provisioning workflows using **Terraform** to ensure consistent, reproducible environments.
-* **Containerization:** Experienced in managing containerized workloads with **Docker** and **Kubernetes** to streamline deployment cycles.
+For nearly three years I worked on the Hong Kong Tourism Board's official travel platform: a public web app, in-venue kiosks, an admin CMS, the API and the AWS infrastructure, on a small team.
 
-#### **Frontend Development**
-* **Responsive Interfaces:** Developed performant, user-centric web interfaces using modern frameworks.
-* **API Integration:** Specialized in bridging the gap between complex backend services and frontend state management.
+- Built the visitor-facing screens of the Next.js web app and the kiosk app, including route rendering with the Google Maps Directions API, search with autocomplete, bookmarks and itineraries, in three languages.
+- Designed a database-backed job system (NestJS, Prisma, PostgreSQL) that runs data syncs and datapack builds as isolated one-off container tasks, with concurrency limits, timeouts and bounded retries.
+- Built a visual flow editor (React Flow) for the kiosks' guided question-and-answer pathways, and shipped it end to end: CMS, API, datapack and kiosk screen.
+- Wrote the Terraform for three environments on AWS: Fargate, CloudFront caching, WAF, autoscaling and alarms.
+- Wrote a k6 load-testing suite covering 8 user journeys across 19 endpoints.
 
----
+## Stack
 
-### 📜 Certifications
+TypeScript, JavaScript, React, Next.js, NestJS, React Native, PHP, WordPress/ACF
+AWS (ECS, Lambda, API Gateway, RDS, CloudFront), Terraform, Docker
+PostgreSQL, Prisma, REST, GraphQL, Jest, k6
 
-* 🛡️ **AWS Certified Developer – Associate** – *Active (Exam Feb 2026)*
-* ☸️ **Certified Kubernetes Application Developer (CKAD)** – *Active (Exp. June 2026)*
-* ☁️ **AWS Certified Solutions Architect – Associate** – *Expired*
-* 🐧 **Red Hat Certified System Administrator (RHCSA)** – *In Progress (Target Q2 2026)*
+AWS Certified Solutions Architect Associate | AWS Certified Developer Associate | CKAD
 
----
-
-### 🛠 Technical Toolbox
-
-* **Languages & Frameworks:** JavaScript/TypeScript, React, NestJs, Bash, Python, Go
-* **Cloud & Infrastructure:** AWS, Terraform, Docker, Kubernetes
-* **OS & Automation:** Linux (RHEL/Ubuntu), CI/CD Pipelines, Bitbucket
-
----
-
-### 📫 Connect with me
-
-* 📍 **Location:** Toronto, ON 🇨🇦
-* 💼 **LinkedIn:** [linkedin.com/in/jayyhchiu](https://linkedin.com/in/jayyhchiu)
-* 📧 **Email:** [jay@jaychiu.dev](jay@jaychiu.dev)
+## Open to work
